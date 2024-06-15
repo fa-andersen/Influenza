@@ -3,6 +3,8 @@
 ## Visualizations & Storyboard
 [Influenza Storyboard on Tableau](https://public.tableau.com/views/2_9InfluenzaStoryboard_Revised/Story?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
+## Introduction
+
 Planning and preparing for the US Influenza Season involved a medical staffing agency that provides temporary workers to clinics and hospitals during the influenza season needs to plan based on historical trends.
 
 ## Objective
